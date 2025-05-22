@@ -52,14 +52,8 @@ Dynamic, eye-catching slideshow for your website images with smooth shuffles and
 
 ---
 
-## 🌐 Live Website Preview
-
-Experience the portfolio site right here! 👇
-
-<iframe src="https://buuya.github.io" width="100%" height="500px" style="border:1px solid #ddd; border-radius: 8px;"></iframe>
-
-*If the preview doesn't load, you can always visit it directly:*  
-👉 [https://buuya.github.io](https://buuya.github.io)
+## 🌐 Live Website Preview  
+Check out the full site here: [https://buuya.github.io](https://buuya.github.io)
 
 ---
 
