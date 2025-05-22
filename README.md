@@ -1,55 +1,94 @@
-# BuuyaStudios Portfolio
+## Ayub Farxaan - Portfolio 
 
-Welcome to the official portfolio showcasing the creative and technical projects by BuuyaStudios.  
-From game design and AI chatbots to dynamic web apps and Discord bots, explore a variety of innovative work crafted with passion and skill.
+<h4 align="center">Introducing Portfolio (V3.0)</h4>
 
----
+## 🌟 Featured Projects
 
-## Projects Highlights
-
-### Connect 4 Clone  
-A simple, classic Connect 4 board game clone made for fun with clean UI and gameplay.  
-**Technologies:** HTML, CSS, JavaScript | **Created:** April 2022
-
-### Pean - Music Discord Bot  
-A Discord music bot for streaming and managing music playback in voice channels. *(Discontinued)*  
-**Technologies:** Node.js, Discord.js | **Created:** Early 2025
-
-### Ben 2 - Benin Utility & Fun Bot  
-A multipurpose Discord bot featuring moderation, fun commands, and mini-games. *(Discontinued)*  
-**Technologies:** Node.js, Discord.js | **Created:** March 2025
-
-### Even - Anime Discord Bot  
-Discord bot focused on anime-related commands like quotes, info, and trivia. *(Discontinued)*  
-**Technologies:** Node.js, Discord.js | **Created:** Early 2025
-
-### K.A.L.AI Chatbot Platform  
-Custom AI chat platform with subscription-based model and real-time messaging features.  
-**Technologies:** React, TypeScript, Node.js | **Created:** May 2025
-
-### M.M.M. Abaya Online Store  
-Responsive ecommerce site selling premium abayas with a clean, modern UI.  
-**Technologies:** React, Tailwind CSS | **Created:** May 2025
-
-### Echoes of Home - Narrative Game  
-First-person exploration game telling a dark nostalgic story, built with Unity.  
-**Technologies:** Unity, C# | **Created:** February 2025
-
-### PixShuffle  
-Dynamic, responsive picture slideshow with customizable shuffle effects for websites.  
-**Technologies:** HTML, CSS, JavaScript | **Created:** 2024
+### 🎮 Connect 4 Clone  
+A classic Connect 4 game recreated for fun and nostalgia. Simple, clean, and addictive!  
+🛠️ *Built with:* HTML, CSS, JavaScript  
+📅 *Created:* April 2022  
+![Connect 4 Clone Screenshot](https://github.com/Buuya/buuya.github.io/blob/main/assets/img/game-1.png)
 
 ---
 
-## Get in Touch
-
-Feel free to check out the full source code and demos on [GitHub](https://github.com/buuya).  
-For collaborations or inquiries, reach out via email: **contact@buuya.com**
-
----
-
-*Thank you for exploring BuuyaStudios projects. Let's build the future, one idea at a time.* 🚀
+### 🎵 Pean - Music Bot  
+Your friendly Discord DJ! Pean streams tunes, handles playlists, and keeps the vibe going. *(Discontinued)*  
+🛠️ *Built with:* Node.js, Discord.js  
+📅 *Created:* Early 2025  
+![Pean Music Bot Screenshot](https://github.com/Buuya/buuya.github.io/blob/main/assets/img/app%201.png)
 
 ---
 
-*© 2025 BuuyaStudios*  
+### 🤖 Ben 2 - Benin Bot  
+Multipurpose Discord bot loaded with fun, games, and utilities to keep your server buzzing. *(Discontinued)*  
+🛠️ *Built with:* Node.js, Discord.js  
+📅 *Created:* March 2025  
+![Ben 2 Bot Screenshot](https://github.com/Buuya/buuya.github.io/blob/main/assets/img/app%202.png)
+
+---
+
+### 🤖 K.A.L.AI Chatbot Platform  
+Custom AI chat platform with subscription options and real-time conversations. Future of chat, powered by BuuyaStudios!  
+🛠️ *Built with:* React, TypeScript, Node.js  
+📅 *Created:* May 2025  
+![K.A.L.AI Platform Screenshot](https://github.com/Buuya/buuya.github.io/blob/main/assets/img/web%201.png)
+
+---
+
+### 🛍️ M.M.M. Abaya Store  
+A sleek, responsive online store selling premium abayas — where modest fashion meets modern design.  
+🛠️ *Built with:* React, Tailwind CSS  
+📅 *Created:* May 2025  
+![M.M.M. Abaya Store Screenshot](https://github.com/Buuya/buuya.github.io/blob/main/assets/img/web%202.png)
+
+---
+
+### 🖼️ PixShuffle  
+Dynamic, eye-catching slideshow for your website images with smooth shuffles and customizable settings.  
+🛠️ *Built with:* HTML, CSS, JavaScript  
+📅 *Created:* 2024  
+![PixShuffle Screenshot](https://github.com/Buuya/buuya.github.io/blob/main/assets/img/app%203.png)
+
+---
+
+## 🌐 Live Website Preview
+
+Experience the portfolio site right here! 👇
+
+<iframe src="https://buuya.github.io" width="100%" height="500px" style="border:1px solid #ddd; border-radius: 8px;"></iframe>
+
+*If the preview doesn't load, you can always visit it directly:*  
+👉 [https://buuya.github.io](https://buuya.github.io)
+
+---
+
+## 📬 Get in Touch
+
+Questions? Collaborations? Just wanna say hi?  
+Email me at: **buuyastudios@gmail.com**  
+Or check out all my projects on [GitHub](https://github.com/buuya)  
+
+---
+
+## ⚠️ License & Usage
+
+All projects are © 2025 BuuyaStudios. All rights reserved.  
+Please respect the originality of these works and **do not copy, redistribute, or reuse** without explicit permission.
+
+For full license details, see [LICENSE](./LICENSE).
+
+---
+
+## 📜 Code of Conduct
+
+We value a welcoming and respectful community. Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand the standards we uphold.
+
+---
+
+Thanks for stopping by!  
+Let’s make something awesome together. 🌟✨
+
+---
+
+*— The BuuyaStudios Team*
